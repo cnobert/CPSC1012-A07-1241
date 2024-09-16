@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cnobert/Documents/CPSC1012-A07-1241/Lesson03/Lesson03.csproj",
-      "projectName": "Lesson03",
-      "projectPath": "/Users/cnobert/Documents/CPSC1012-A07-1241/Lesson03/Lesson03.csproj",
+      "projectUniqueName": "/Users/cnobert/Documents/CPSC1012-A07-1241/Lesson03-Input-and-Data-Type-Conversion/Lesson03-Input-and-Data-Type-Conversion.csproj",
+      "projectName": "Lesson03-Input-and-Data-Type-Conversion",
+      "projectPath": "/Users/cnobert/Documents/CPSC1012-A07-1241/Lesson03-Input-and-Data-Type-Conversion/Lesson03-Input-and-Data-Type-Conversion.csproj",
       "packagesPath": "/Users/cnobert/.nuget/packages/",
-      "outputPath": "/Users/cnobert/Documents/CPSC1012-A07-1241/Lesson03/obj/",
+      "outputPath": "/Users/cnobert/Documents/CPSC1012-A07-1241/Lesson03-Input-and-Data-Type-Conversion/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cnobert/.nuget/NuGet/NuGet.Config"
