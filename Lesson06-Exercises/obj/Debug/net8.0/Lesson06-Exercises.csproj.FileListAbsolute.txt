@@ -1,0 +1,15 @@
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson06-Exercises\bin\Debug\net8.0\Lesson06-Exercises.exe
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson06-Exercises\bin\Debug\net8.0\Lesson06-Exercises.deps.json
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson06-Exercises\bin\Debug\net8.0\Lesson06-Exercises.runtimeconfig.json
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson06-Exercises\bin\Debug\net8.0\Lesson06-Exercises.dll
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson06-Exercises\bin\Debug\net8.0\Lesson06-Exercises.pdb
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson06-Exercises\obj\Debug\net8.0\Lesson06-Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson06-Exercises\obj\Debug\net8.0\Lesson06-Exercises.AssemblyInfoInputs.cache
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson06-Exercises\obj\Debug\net8.0\Lesson06-Exercises.AssemblyInfo.cs
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson06-Exercises\obj\Debug\net8.0\Lesson06-Exercises.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson06-Exercises\obj\Debug\net8.0\Lesson06-Exercises.sourcelink.json
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson06-Exercises\obj\Debug\net8.0\Lesson06-Exercises.dll
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson06-Exercises\obj\Debug\net8.0\refint\Lesson06-Exercises.dll
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson06-Exercises\obj\Debug\net8.0\Lesson06-Exercises.pdb
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson06-Exercises\obj\Debug\net8.0\Lesson06-Exercises.genruntimeconfig.cache
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson06-Exercises\obj\Debug\net8.0\ref\Lesson06-Exercises.dll
