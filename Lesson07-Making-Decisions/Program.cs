@@ -78,6 +78,7 @@
 #endregion
 
 #region Question 01, Decision Making Exercises 01 doc
+
 //https://lms.nait.ca/d2l/le/content/25527/viewContent/1173615/View
 //Write a program that will prompt for a number and display “positive” if it is 
 //greater than zero,
@@ -93,9 +94,22 @@ else if (theAnswer < 0)
 {
     Console.WriteLine("negative");
 }
-else
+else // if(theAnswer == 0)
 {
     Console.WriteLine("zero");
 }
+#endregion
+
+#region notes on boolean operators
+/*
+    == equality operator (if both sides equal, returns true)
+    && "and" operator (if both sides true, returns true)
+    || "or" operator (if one side true, returns true))
+    ! "not" operator (returns the opposite of the value it operates on)
+    < "strictly less than" (if left side strictly less, returns true))
+    > "strictly greater than" (if left side stricty great than, returns true))
+    <= "less than or equal to" (if left side less than or equal to, returns true)
+    >= "great than or equal to" (if left side greater than or equal to, returns true))
+*/
 #endregion
 Console.WriteLine("<----------------------->");
