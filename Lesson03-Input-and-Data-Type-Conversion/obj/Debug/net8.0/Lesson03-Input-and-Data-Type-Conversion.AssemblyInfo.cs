@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson03-Input-and-Data-Type-Conversion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9506ee345039e473ace3060cf090e19604755bc3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60aa3d07000119bd78f5b3c63afe4a84b67761fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson03-Input-and-Data-Type-Conversion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson03-Input-and-Data-Type-Conversion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
