@@ -78,7 +78,7 @@
 //a different message is written to the console
 #endregion
 
-#region Question 01, Decision Making Exercises 01 doc
+#region Question 01, Decision Making Exercises 02 doc
 
 //https://lms.nait.ca/d2l/le/content/25527/viewContent/1173615/View
 //Write a program that will prompt for a number and display “positive” if it is 
