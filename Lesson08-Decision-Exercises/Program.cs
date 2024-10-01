@@ -101,6 +101,7 @@ else if (age >= 55)
 Console.WriteLine(admissionMessage);
 
 #endregion
+
 #region outro text
 Console.WriteLine();
 Console.WriteLine();
