@@ -46,7 +46,7 @@ Console.WriteLine($"{fullName.ToUpper().Contains(whatWeAreLookingFor.ToUpper())}
 
 Console.Write($"\n\n\n{fullName.Substring(8)}");
  
-string hockeyName = "Connor McDavid"; 
+string hockeyName = "Connor McDavid";   
 string firstName = hockeyName.Substring(0, hockeyName.IndexOf(" "));
 string lastName = hockeyName.Substring(hockeyName.IndexOf(" ") + 1);
 Console.WriteLine($"\n\n\nFirst Name: {firstName}\nLast Name: {lastName}");
