@@ -52,17 +52,39 @@ Console.WriteLine();
 
 */
 
-try
+// try
+// {
+//     Console.Write("Enter a number: ");
+//     int num = int.Parse(Console.ReadLine());
+//     Console.WriteLine($"You successfully entered the number {num}");
+// }
+// catch(Exception theException)
+// {
+//     Console.WriteLine("There was an exception, here is the message:");
+//     Console.WriteLine(theException.Message);
+// }
+
+int userAge = 0;
+bool validInput = false;
+
+do
 {
-    Console.Write("Enter a number: ");
-    int num = int.Parse(Console.ReadLine());
-    Console.WriteLine($"You successfully entered the number {num}");
-}
-catch(Exception theException)
-{
-    Console.WriteLine("There was an exception, here is the message:");
-    Console.WriteLine(theException.Message);
-}
+    Console.Write("How old are you? Please enter a whole number. ");
+    try
+    {
+        //dangerous code goes here
+        userAge = int.Parse(Console.ReadLine());
+        validInput = true; //this line of code is only reached if the input is valid
+    }
+    catch(Exception e)
+    {
+        Console.WriteLine(e.Message);
+        Console.WriteLine("Please try again.");
+    }
+} while(validInput == false); //while (!validInput)
+
+
+
 #endregion
 #region outro text
 Console.WriteLine();
