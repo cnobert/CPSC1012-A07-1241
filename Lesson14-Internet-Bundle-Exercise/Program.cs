@@ -84,6 +84,7 @@ do
     do
     {    
         Console.Write("\nWould you like to try again? [y/n]");
+        //continueYN = char.ToLower(Console.Readeline()[0]);
         continueYN = char.ToLower(Console.ReadKey().KeyChar);
     } while(continueYN != 'y' && continueYN != 'n');
 } while(continueYN != 'n');
