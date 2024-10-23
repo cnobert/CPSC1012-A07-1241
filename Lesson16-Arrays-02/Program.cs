@@ -60,3 +60,14 @@ for(int c = 0; c < studentNames.Length; c++)
 {
     Console.WriteLine($"{c + 1}. {studentNames[c]} got {studentMathGrades[c]} in math.");
 }
+
+Console.Write($"Which student's info would you like to view? "
+                + $"Enter a number between 1 and {studentNames.Length}: ");
+//TODO: add a loop that checks for invalid input
+int studentIndex = int.Parse(Console.ReadLine());
+studentIndex--;
+if(studentIndex >= 0 && studentIndex < studentNames.Length)
+{
+    Console.WriteLine($"{studentIndex + 1}. {studentNames[studentIndex]} "
+                        + $"got {studentMathGrades[studentIndex]} in math.");
+}
