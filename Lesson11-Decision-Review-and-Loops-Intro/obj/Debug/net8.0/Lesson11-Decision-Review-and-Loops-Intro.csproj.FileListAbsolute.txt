@@ -1,0 +1,15 @@
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson11-Decision-Review-and-Loops-Intro/bin/Debug/net8.0/Lesson11-Decision-Review-and-Loops-Intro
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson11-Decision-Review-and-Loops-Intro/bin/Debug/net8.0/Lesson11-Decision-Review-and-Loops-Intro.deps.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson11-Decision-Review-and-Loops-Intro/bin/Debug/net8.0/Lesson11-Decision-Review-and-Loops-Intro.runtimeconfig.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson11-Decision-Review-and-Loops-Intro/bin/Debug/net8.0/Lesson11-Decision-Review-and-Loops-Intro.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson11-Decision-Review-and-Loops-Intro/bin/Debug/net8.0/Lesson11-Decision-Review-and-Loops-Intro.pdb
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson11-Decision-Review-and-Loops-Intro/obj/Debug/net8.0/Lesson11-Decision-Review-and-Loops-Intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson11-Decision-Review-and-Loops-Intro/obj/Debug/net8.0/Lesson11-Decision-Review-and-Loops-Intro.AssemblyInfoInputs.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson11-Decision-Review-and-Loops-Intro/obj/Debug/net8.0/Lesson11-Decision-Review-and-Loops-Intro.AssemblyInfo.cs
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson11-Decision-Review-and-Loops-Intro/obj/Debug/net8.0/Lesson11-Decision-Review-and-Loops-Intro.csproj.CoreCompileInputs.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson11-Decision-Review-and-Loops-Intro/obj/Debug/net8.0/Lesson11-Decision-Review-and-Loops-Intro.sourcelink.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson11-Decision-Review-and-Loops-Intro/obj/Debug/net8.0/Lesson11-Decision-Review-and-Loops-Intro.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson11-Decision-Review-and-Loops-Intro/obj/Debug/net8.0/refint/Lesson11-Decision-Review-and-Loops-Intro.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson11-Decision-Review-and-Loops-Intro/obj/Debug/net8.0/Lesson11-Decision-Review-and-Loops-Intro.pdb
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson11-Decision-Review-and-Loops-Intro/obj/Debug/net8.0/Lesson11-Decision-Review-and-Loops-Intro.genruntimeconfig.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson11-Decision-Review-and-Loops-Intro/obj/Debug/net8.0/ref/Lesson11-Decision-Review-and-Loops-Intro.dll

@@ -1,0 +1,15 @@
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson16-Arrays-02/bin/Debug/net8.0/Lesson16-Arrays-02
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson16-Arrays-02/bin/Debug/net8.0/Lesson16-Arrays-02.deps.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson16-Arrays-02/bin/Debug/net8.0/Lesson16-Arrays-02.runtimeconfig.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson16-Arrays-02/bin/Debug/net8.0/Lesson16-Arrays-02.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson16-Arrays-02/bin/Debug/net8.0/Lesson16-Arrays-02.pdb
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson16-Arrays-02/obj/Debug/net8.0/Lesson16-Arrays-02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson16-Arrays-02/obj/Debug/net8.0/Lesson16-Arrays-02.AssemblyInfoInputs.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson16-Arrays-02/obj/Debug/net8.0/Lesson16-Arrays-02.AssemblyInfo.cs
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson16-Arrays-02/obj/Debug/net8.0/Lesson16-Arrays-02.csproj.CoreCompileInputs.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson16-Arrays-02/obj/Debug/net8.0/Lesson16-Arrays-02.sourcelink.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson16-Arrays-02/obj/Debug/net8.0/Lesson16-Arrays-02.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson16-Arrays-02/obj/Debug/net8.0/refint/Lesson16-Arrays-02.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson16-Arrays-02/obj/Debug/net8.0/Lesson16-Arrays-02.pdb
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson16-Arrays-02/obj/Debug/net8.0/Lesson16-Arrays-02.genruntimeconfig.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson16-Arrays-02/obj/Debug/net8.0/ref/Lesson16-Arrays-02.dll

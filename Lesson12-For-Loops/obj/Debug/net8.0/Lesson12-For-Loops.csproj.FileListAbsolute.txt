@@ -1,0 +1,15 @@
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson12-For-Loops/bin/Debug/net8.0/Lesson12-For-Loops
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson12-For-Loops/bin/Debug/net8.0/Lesson12-For-Loops.deps.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson12-For-Loops/bin/Debug/net8.0/Lesson12-For-Loops.runtimeconfig.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson12-For-Loops/bin/Debug/net8.0/Lesson12-For-Loops.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson12-For-Loops/bin/Debug/net8.0/Lesson12-For-Loops.pdb
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson12-For-Loops/obj/Debug/net8.0/Lesson12-For-Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson12-For-Loops/obj/Debug/net8.0/Lesson12-For-Loops.AssemblyInfoInputs.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson12-For-Loops/obj/Debug/net8.0/Lesson12-For-Loops.AssemblyInfo.cs
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson12-For-Loops/obj/Debug/net8.0/Lesson12-For-Loops.csproj.CoreCompileInputs.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson12-For-Loops/obj/Debug/net8.0/Lesson12-For-Loops.sourcelink.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson12-For-Loops/obj/Debug/net8.0/Lesson12-For-Loops.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson12-For-Loops/obj/Debug/net8.0/refint/Lesson12-For-Loops.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson12-For-Loops/obj/Debug/net8.0/Lesson12-For-Loops.pdb
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson12-For-Loops/obj/Debug/net8.0/Lesson12-For-Loops.genruntimeconfig.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson12-For-Loops/obj/Debug/net8.0/ref/Lesson12-For-Loops.dll

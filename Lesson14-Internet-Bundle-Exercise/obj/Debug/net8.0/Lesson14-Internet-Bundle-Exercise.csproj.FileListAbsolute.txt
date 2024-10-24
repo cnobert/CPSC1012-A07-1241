@@ -1,0 +1,15 @@
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson14-Internet-Bundle-Exercise/bin/Debug/net8.0/Lesson14-Internet-Bundle-Exercise
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson14-Internet-Bundle-Exercise/bin/Debug/net8.0/Lesson14-Internet-Bundle-Exercise.deps.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson14-Internet-Bundle-Exercise/bin/Debug/net8.0/Lesson14-Internet-Bundle-Exercise.runtimeconfig.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson14-Internet-Bundle-Exercise/bin/Debug/net8.0/Lesson14-Internet-Bundle-Exercise.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson14-Internet-Bundle-Exercise/bin/Debug/net8.0/Lesson14-Internet-Bundle-Exercise.pdb
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson14-Internet-Bundle-Exercise/obj/Debug/net8.0/Lesson14-Internet-Bundle-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson14-Internet-Bundle-Exercise/obj/Debug/net8.0/Lesson14-Internet-Bundle-Exercise.AssemblyInfoInputs.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson14-Internet-Bundle-Exercise/obj/Debug/net8.0/Lesson14-Internet-Bundle-Exercise.AssemblyInfo.cs
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson14-Internet-Bundle-Exercise/obj/Debug/net8.0/Lesson14-Internet-Bundle-Exercise.csproj.CoreCompileInputs.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson14-Internet-Bundle-Exercise/obj/Debug/net8.0/Lesson14-Internet-Bundle-Exercise.sourcelink.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson14-Internet-Bundle-Exercise/obj/Debug/net8.0/Lesson14-Internet-Bundle-Exercise.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson14-Internet-Bundle-Exercise/obj/Debug/net8.0/refint/Lesson14-Internet-Bundle-Exercise.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson14-Internet-Bundle-Exercise/obj/Debug/net8.0/Lesson14-Internet-Bundle-Exercise.pdb
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson14-Internet-Bundle-Exercise/obj/Debug/net8.0/Lesson14-Internet-Bundle-Exercise.genruntimeconfig.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson14-Internet-Bundle-Exercise/obj/Debug/net8.0/ref/Lesson14-Internet-Bundle-Exercise.dll

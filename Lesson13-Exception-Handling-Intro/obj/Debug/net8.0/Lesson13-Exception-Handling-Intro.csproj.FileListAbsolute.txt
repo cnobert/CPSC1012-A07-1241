@@ -1,0 +1,15 @@
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson13-Exception-Handling-Intro/bin/Debug/net8.0/Lesson13-Exception-Handling-Intro
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson13-Exception-Handling-Intro/bin/Debug/net8.0/Lesson13-Exception-Handling-Intro.deps.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson13-Exception-Handling-Intro/bin/Debug/net8.0/Lesson13-Exception-Handling-Intro.runtimeconfig.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson13-Exception-Handling-Intro/bin/Debug/net8.0/Lesson13-Exception-Handling-Intro.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson13-Exception-Handling-Intro/bin/Debug/net8.0/Lesson13-Exception-Handling-Intro.pdb
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson13-Exception-Handling-Intro/obj/Debug/net8.0/Lesson13-Exception-Handling-Intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson13-Exception-Handling-Intro/obj/Debug/net8.0/Lesson13-Exception-Handling-Intro.AssemblyInfoInputs.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson13-Exception-Handling-Intro/obj/Debug/net8.0/Lesson13-Exception-Handling-Intro.AssemblyInfo.cs
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson13-Exception-Handling-Intro/obj/Debug/net8.0/Lesson13-Exception-Handling-Intro.csproj.CoreCompileInputs.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson13-Exception-Handling-Intro/obj/Debug/net8.0/Lesson13-Exception-Handling-Intro.sourcelink.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson13-Exception-Handling-Intro/obj/Debug/net8.0/Lesson13-Exception-Handling-Intro.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson13-Exception-Handling-Intro/obj/Debug/net8.0/refint/Lesson13-Exception-Handling-Intro.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson13-Exception-Handling-Intro/obj/Debug/net8.0/Lesson13-Exception-Handling-Intro.pdb
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson13-Exception-Handling-Intro/obj/Debug/net8.0/Lesson13-Exception-Handling-Intro.genruntimeconfig.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson13-Exception-Handling-Intro/obj/Debug/net8.0/ref/Lesson13-Exception-Handling-Intro.dll
