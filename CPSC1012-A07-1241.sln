@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson16-Arrays-02", "Lesso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson17-Methods-01", "Lesson17-Methods-01\Lesson17-Methods-01.csproj", "{4E33E1FF-8B55-4D0C-A250-EA1CDB8D2FF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson00-Program-With-Main", "Lesson00-Program-With-Main\Lesson00-Program-With-Main.csproj", "{8BE932DC-3F53-4631-941C-A85D39898F26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +116,9 @@ Global
 		{4E33E1FF-8B55-4D0C-A250-EA1CDB8D2FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E33E1FF-8B55-4D0C-A250-EA1CDB8D2FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E33E1FF-8B55-4D0C-A250-EA1CDB8D2FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE932DC-3F53-4631-941C-A85D39898F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE932DC-3F53-4631-941C-A85D39898F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE932DC-3F53-4631-941C-A85D39898F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE932DC-3F53-4631-941C-A85D39898F26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
