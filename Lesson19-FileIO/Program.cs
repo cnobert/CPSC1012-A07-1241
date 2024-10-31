@@ -14,12 +14,14 @@
             {
                 writer.WriteLine(c + 1);
             }
-            
             writer.Close();
         }
         catch(Exception e)
         {
             Console.WriteLine($"Something went wrong: {e.Message}");
         }
+
+        StreamReader reader;
+        
     }
 }
