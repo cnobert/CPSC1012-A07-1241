@@ -10,8 +10,11 @@ class Program
         const int NumLinesInFile = 5;
         string[] fileLines = new string[NumLinesInFile];
 
-        ReadFromFile(fileName, fileLines);
+        
+        //ReadFromFile(fileName, fileLines);
+
         WriteToFile(fileName, NumLinesInFile);
+
         for(int c = 0; c < fileLines.Length; c++)
         {
             Console.WriteLine(fileLines[c]);

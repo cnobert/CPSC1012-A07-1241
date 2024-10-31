@@ -1,0 +1,15 @@
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Assignment03\bin\Debug\net8.0\Assignment03.exe
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Assignment03\bin\Debug\net8.0\Assignment03.deps.json
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Assignment03\bin\Debug\net8.0\Assignment03.runtimeconfig.json
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Assignment03\bin\Debug\net8.0\Assignment03.dll
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Assignment03\bin\Debug\net8.0\Assignment03.pdb
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Assignment03\obj\Debug\net8.0\Assignment03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Assignment03\obj\Debug\net8.0\Assignment03.AssemblyInfoInputs.cache
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Assignment03\obj\Debug\net8.0\Assignment03.AssemblyInfo.cs
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Assignment03\obj\Debug\net8.0\Assignment03.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Assignment03\obj\Debug\net8.0\Assignment03.sourcelink.json
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Assignment03\obj\Debug\net8.0\Assignment03.dll
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Assignment03\obj\Debug\net8.0\refint\Assignment03.dll
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Assignment03\obj\Debug\net8.0\Assignment03.pdb
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Assignment03\obj\Debug\net8.0\Assignment03.genruntimeconfig.cache
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Assignment03\obj\Debug\net8.0\ref\Assignment03.dll

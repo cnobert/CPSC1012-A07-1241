@@ -1,0 +1,15 @@
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson20-FileIO-02\bin\Debug\net8.0\Lesson20-FileIO-02.exe
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson20-FileIO-02\bin\Debug\net8.0\Lesson20-FileIO-02.deps.json
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson20-FileIO-02\bin\Debug\net8.0\Lesson20-FileIO-02.runtimeconfig.json
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson20-FileIO-02\bin\Debug\net8.0\Lesson20-FileIO-02.dll
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson20-FileIO-02\bin\Debug\net8.0\Lesson20-FileIO-02.pdb
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson20-FileIO-02\obj\Debug\net8.0\Lesson20-FileIO-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson20-FileIO-02\obj\Debug\net8.0\Lesson20-FileIO-02.AssemblyInfoInputs.cache
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson20-FileIO-02\obj\Debug\net8.0\Lesson20-FileIO-02.AssemblyInfo.cs
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson20-FileIO-02\obj\Debug\net8.0\Lesson20-FileIO-02.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson20-FileIO-02\obj\Debug\net8.0\Lesson20-FileIO-02.sourcelink.json
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson20-FileIO-02\obj\Debug\net8.0\Lesson20-FileIO-02.dll
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson20-FileIO-02\obj\Debug\net8.0\refint\Lesson20-FileIO-02.dll
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson20-FileIO-02\obj\Debug\net8.0\Lesson20-FileIO-02.pdb
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson20-FileIO-02\obj\Debug\net8.0\Lesson20-FileIO-02.genruntimeconfig.cache
+C:\Users\cnobert\Documents\GitHub\CPSC1012-A07-1241\Lesson20-FileIO-02\obj\Debug\net8.0\ref\Lesson20-FileIO-02.dll
