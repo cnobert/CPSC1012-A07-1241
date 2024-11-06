@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment03", "Assignment0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson20-FileIO-02", "Lesson20-FileIO-02\Lesson20-FileIO-02.csproj", "{28B4FF03-3367-4178-B094-FBB7E3D8D8AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson21-Graph", "Lesson21-Graph\Lesson21-Graph.csproj", "{AAE21F0B-C3C7-4B4C-8D31-9D6DB528BA51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson21-Chart", "Lesson21-Chart\Lesson21-Chart.csproj", "{8713E62C-3094-4C4D-8EEE-6D0C14A25D5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -144,5 +148,13 @@ Global
 		{28B4FF03-3367-4178-B094-FBB7E3D8D8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28B4FF03-3367-4178-B094-FBB7E3D8D8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28B4FF03-3367-4178-B094-FBB7E3D8D8AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAE21F0B-C3C7-4B4C-8D31-9D6DB528BA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE21F0B-C3C7-4B4C-8D31-9D6DB528BA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE21F0B-C3C7-4B4C-8D31-9D6DB528BA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE21F0B-C3C7-4B4C-8D31-9D6DB528BA51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8713E62C-3094-4C4D-8EEE-6D0C14A25D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8713E62C-3094-4C4D-8EEE-6D0C14A25D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8713E62C-3094-4C4D-8EEE-6D0C14A25D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8713E62C-3094-4C4D-8EEE-6D0C14A25D5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

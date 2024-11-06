@@ -1,0 +1,15 @@
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson21-Chart/bin/Debug/net8.0/Lesson21-Chart
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson21-Chart/bin/Debug/net8.0/Lesson21-Chart.deps.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson21-Chart/bin/Debug/net8.0/Lesson21-Chart.runtimeconfig.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson21-Chart/bin/Debug/net8.0/Lesson21-Chart.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson21-Chart/bin/Debug/net8.0/Lesson21-Chart.pdb
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson21-Chart/obj/Debug/net8.0/Lesson21-Chart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson21-Chart/obj/Debug/net8.0/Lesson21-Chart.AssemblyInfoInputs.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson21-Chart/obj/Debug/net8.0/Lesson21-Chart.AssemblyInfo.cs
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson21-Chart/obj/Debug/net8.0/Lesson21-Chart.csproj.CoreCompileInputs.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson21-Chart/obj/Debug/net8.0/Lesson21-Chart.sourcelink.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson21-Chart/obj/Debug/net8.0/Lesson21-Chart.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson21-Chart/obj/Debug/net8.0/refint/Lesson21-Chart.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson21-Chart/obj/Debug/net8.0/Lesson21-Chart.pdb
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson21-Chart/obj/Debug/net8.0/Lesson21-Chart.genruntimeconfig.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson21-Chart/obj/Debug/net8.0/ref/Lesson21-Chart.dll
