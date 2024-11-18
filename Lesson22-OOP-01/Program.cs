@@ -4,12 +4,10 @@
     {
         Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
 
-        // string[] studentNames = new string[100];
-        // int[] mathMarks = new int[100];
-        // int[] englishMark = new int[100];
-        // int[] scienceMark = new int[100];
-
-        Student[] students = new Student[100];
+        Student s01 = new Student();
+        s01.Name = "Jimmy McNulty";
+        s01.MathMark = 81;
+        Console.WriteLine($"{s01.Name} got {s01.MathMark} in math.");
 
     }
 }
@@ -20,6 +18,7 @@ class Student
     private string _name;
     private int _mathMark;
 
+    //the "setters" and "getters" are accessed via properties
     public string Name
     {
         get 
@@ -40,6 +39,10 @@ class Student
         }
         set
         {
+            if(value < 0 || value > 100)
+            {
+                throw new Exception("The mark must be between 0 and 100.");
+            }
             _mathMark = value;
         }
    }
