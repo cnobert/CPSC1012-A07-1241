@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson20-FileIO-02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d47f4d0fc1a6e075c2c1a07297fd4a1fd806cbf6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9b089271f3e032fd43de4775993cc6a59ab1663")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson20-FileIO-02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson20-FileIO-02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
