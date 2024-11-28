@@ -12,6 +12,7 @@
         s02.Print();
         s03.Print();
 
+        Student.PrintDescription();
     }
 }
 class Student 
@@ -80,11 +81,16 @@ class Student
         ScienceMark = scienceMark;
     }
 
+    //instance method
     public void Print()
     {
         //in a method that is inside of a class, the other class methods and data members
         //are in scope
         Console.WriteLine($"{Name} got {MathMark} in math and {ScienceMark} in science.");
     }
-
+    //class method - every instance/object shares this method
+    public static void PrintDescription()
+    {
+        Console.WriteLine("The student class stores data about NAIT students.");
+    }
 }
