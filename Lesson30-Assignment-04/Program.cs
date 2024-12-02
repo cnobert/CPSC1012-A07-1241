@@ -4,14 +4,21 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
-        
+        string firstName = PromptString("Please enter first name: ");
+        string lastName = PromptString("Please enter last name: ");
+        int orderCount = PromptInt("Please enter # of orders:");
+        double totalSales = PromptDouble("Please enter total value of orders, in $:");
+        Customer c01 = new Customer(firstName, lastName, orderCount, totalSales);
     }
+
+    #region prompt methods
     static string PromptString(string prompt)
     {
         Console.Write(prompt);
         return Console.ReadLine();
     }
-    static int PromptInt()
+    
+    static int PromptInt(string prompt)
     {
         int theInt = 0;
         bool validInt = false;
@@ -19,7 +26,7 @@ class Program
         {
             try
             {
-                Console.Write("Enter a whole number: ");
+                Console.Write(prompt);
                 theInt = int.Parse(Console.ReadLine());
                 validInt = true;
             }
@@ -32,7 +39,7 @@ class Program
 
         return theInt;
     }
-    static double PromptDouble()
+    static double PromptDouble(string prompt)
     {
         double theDouble = 0;
         bool validDouble = false;
@@ -40,7 +47,7 @@ class Program
         {
             try
             {
-                Console.Write("Enter a number: ");
+                Console.Write(prompt);
                 theDouble = double.Parse(Console.ReadLine());
                 validDouble = true;
             }
@@ -53,7 +60,7 @@ class Program
         
         return theDouble;
     }
-
+    #endregion
 }
 class Customer
 {
