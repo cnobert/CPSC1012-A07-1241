@@ -5,8 +5,55 @@ class Program
     {
         Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
         
-        
     }
+    static string PromptString(string prompt)
+    {
+        Console.Write(prompt);
+        return Console.ReadLine();
+    }
+    static int PromptInt()
+    {
+        int theInt = 0;
+        bool validInt = false;
+        do
+        {
+            try
+            {
+                Console.Write("Enter a whole number: ");
+                theInt = int.Parse(Console.ReadLine());
+                validInt = true;
+            }
+            catch
+            {
+                Console.Write("Please enter a valid number. Try again: ");
+            }
+        }
+        while (!validInt);
+
+        return theInt;
+    }
+    static double PromptDouble()
+    {
+        double theDouble = 0;
+        bool validDouble = false;
+        do
+        {
+            try
+            {
+                Console.Write("Enter a number: ");
+                theDouble = double.Parse(Console.ReadLine());
+                validDouble = true;
+            }
+            catch
+            {
+                Console.Write("Please enter a valid number. Try again: ");
+            }
+        }
+        while (!validDouble);
+        
+        return theDouble;
+    }
+
 }
 class Customer
 {
@@ -72,8 +119,26 @@ class Customer
     
     //TODO: write the AverageOrder property -it's read only, it returns the average order
     //and it does not blow up if there are zero orders
-    #endregion
+    public double AverageOrder
+    {
+        get
+        {
+            return 1.0;//placeholder code
+        }
+    }
+    
+    public string CustomerTier
+    {
+        get
+        {
+            //the "if" statement that determines "Bronze", "Silver", or "Gold"
+            //only one return
+            return "placeholder";
+        }
+    }
 
+    #endregion
+    
     #region methods
     public Customer(string firstName, string lastName, int orderCount, double totalSales)
     {
@@ -82,4 +147,5 @@ class Customer
 
 
     #endregion
+
 }

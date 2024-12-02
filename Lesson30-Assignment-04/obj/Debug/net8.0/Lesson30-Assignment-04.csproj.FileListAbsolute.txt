@@ -1,0 +1,15 @@
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson30-Assignment-04/obj/Debug/net8.0/Lesson30-Assignment-04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson30-Assignment-04/obj/Debug/net8.0/Lesson30-Assignment-04.AssemblyInfoInputs.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson30-Assignment-04/obj/Debug/net8.0/Lesson30-Assignment-04.AssemblyInfo.cs
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson30-Assignment-04/obj/Debug/net8.0/Lesson30-Assignment-04.csproj.CoreCompileInputs.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson30-Assignment-04/obj/Debug/net8.0/Lesson30-Assignment-04.sourcelink.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson30-Assignment-04/bin/Debug/net8.0/Lesson30-Assignment-04
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson30-Assignment-04/bin/Debug/net8.0/Lesson30-Assignment-04.deps.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson30-Assignment-04/bin/Debug/net8.0/Lesson30-Assignment-04.runtimeconfig.json
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson30-Assignment-04/bin/Debug/net8.0/Lesson30-Assignment-04.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson30-Assignment-04/bin/Debug/net8.0/Lesson30-Assignment-04.pdb
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson30-Assignment-04/obj/Debug/net8.0/Lesson30-Assignment-04.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson30-Assignment-04/obj/Debug/net8.0/refint/Lesson30-Assignment-04.dll
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson30-Assignment-04/obj/Debug/net8.0/Lesson30-Assignment-04.pdb
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson30-Assignment-04/obj/Debug/net8.0/Lesson30-Assignment-04.genruntimeconfig.cache
+/Users/cnobert/Documents/GitHub/CPSC1012-A07-1241/Lesson30-Assignment-04/obj/Debug/net8.0/ref/Lesson30-Assignment-04.dll

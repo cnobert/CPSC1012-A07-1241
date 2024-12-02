@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson30-Assignment-04/1.0.0": {
+        "runtime": {
+          "Lesson30-Assignment-04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson30-Assignment-04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -8,6 +8,7 @@
         Student s02 = new Student("Avon Barksdale", 88, 91);
         Student s03 = new Student("Stringer Bell", 99, 98);
 
+        Console.WriteLine($"The average for {s01.Name} is {s01.AverageMark}.");
         s01.Print();
         s02.Print();
         s03.Print();
@@ -68,6 +69,35 @@ class Student
         }
     }
 
+    public double AverageMark
+    {
+        //this property is read-only, so there is no "setter"
+        get
+        {
+            return (MathMark + ScienceMark) / 2;
+        }
+    }
+
+    public string StudentRanking
+    {
+        get
+        {
+            string ranking = "Failing";
+            if(AverageMark >= 90)
+            {
+                ranking = "Honours with distinction";
+            }
+            else if(AverageMark >= 80)
+            {
+                ranking = "Honours";
+            }
+            else if(AverageMark >= 50)
+            {
+                ranking = "Passing";
+            }
+            return ranking;
+        }
+    }
     //a constructor "constructs" an object
     //it doesn't have a return type, because it is assumed that it returns an object of the class
     //a constructor has the same name as the class
