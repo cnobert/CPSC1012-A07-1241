@@ -2,18 +2,33 @@
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
 
         Student s01 = new Student("Jimmy McNulty", 81, 79);
         Student s02 = new Student("Avon Barksdale", 88, 91);
         Student s03 = new Student("Stringer Bell", 99, 98);
 
-        Console.WriteLine($"The average for {s01.Name} is {s01.AverageMark}.");
-        s01.Print();
-        s02.Print();
-        s03.Print();
-
-        Student.PrintDescription();
+        List<Student> students = new List<Student>();
+        students.Add(s01);
+        students[0].Print();
+        s01.MathMark = 99;
+        students[0].Print();
+        Console.WriteLine("---------");
+        students.Add(s02);
+        students.Add(s03);
+        students.Add(new Student("Kima Gregs", 51, 98));
+        foreach(Student s in students)
+        {
+            s.Print();
+        }
+        students.Remove(s01);
+        students.Remove(s03);
+        //students.RemoveAt(0); removes the instance that is at index zero in the list
+        Console.WriteLine("---------");
+        foreach(Student s in students)
+        {
+            s.Print();
+        }
+        
     }
 }
 class Student 
