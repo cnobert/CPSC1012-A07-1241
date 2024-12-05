@@ -22,6 +22,7 @@
         }
         students.Remove(s01);
         students.Remove(s03);
+        //students.RemoveAt()
         //students.RemoveAt(0); removes the instance that is at index zero in the list
         Console.WriteLine("---------");
         foreach(Student s in students)
