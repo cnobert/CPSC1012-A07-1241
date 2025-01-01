@@ -4,32 +4,26 @@
     {
 
         Student s01 = new Student("Jimmy McNulty", 81, 79);
-        Student s02 = new Student("Avon Barksdale", 88, 91);
+        Student s02 = new Student("Avon Barks", 88, 91);
         Student s03 = new Student("Stringer Bell", 99, 98);
 
         List<Student> students = new List<Student>();
         students.Add(s01);
-        students[0].Print();
-        s01.MathMark = 99;
-        students[0].Print();
-        Console.WriteLine("---------");
         students.Add(s02);
         students.Add(s03);
         students.Add(new Student("Kima Gregs", 51, 98));
+
+        DisplayStudents(students);
+    }
+    static void DisplayStudents(List<Student> students)
+    {
+        Console.WriteLine("\n\n\n\nName\t\t\tMath Mark\tScience Mark");
+        int c = 1;
         foreach(Student s in students)
         {
-            s.Print();
+            Console.WriteLine($"{c}.{s.Name}\t\t{s.MathMark}\t\t{s.ScienceMark}");
+            c++;
         }
-        students.Remove(s01);
-        students.Remove(s03);
-        //students.RemoveAt()
-        //students.RemoveAt(0); removes the instance that is at index zero in the list
-        Console.WriteLine("---------");
-        foreach(Student s in students)
-        {
-            s.Print();
-        }
-        
     }
 }
 class Student 
